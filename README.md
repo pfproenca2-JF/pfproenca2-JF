@@ -1,4 +1,4 @@
-# Engenharia de Computação em Formação 
+# Engenheiro de Computação em Formação 
 # Bombeiro Militar há 15 anos
 
 ![Visitantes](https://img.shields.io/badge/Visitante%20n%C2%BA-0-blue?style=for-the-badge)
@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/pfproenca2-JF/fellipe-proenca/main/doom.gif" alt="DOOM Gameplay Loop" width="480">
 </p>
-<p align="center"><i>DOOM, até no README! 😉</i></p>
+<p align="center"><i>DOOM, até no README!😁</i></p>
 
 ---
 

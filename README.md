@@ -1,28 +1,49 @@
-# Olá, eu sou o Fellipe Proença! 👋
+# Bombeiro Militar há 15 anos & Estudante de Engenharia de Computação
 
-### Bombeiro Militar há 15 anos & Estudante de Engenharia de Computação
+![Visitantes](https://img.shields.io/badge/Visitante%20n%C2%BA-0-blue?style=for-the-badge)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2MzYmMyMzljOGIxNTVmNmFiNzljOWZmYjUyYmZlZGNkMzA1NWY1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDK1pCI43lSqK1Qh0T/giphy.gif" alt="DOOM Gameplay Loop" width="480">
+</p>
+<p align="center"><i>Sim, é possível rodar até no README! 😉</i></p>
+
+---
 
 Atualmente, foco meu desenvolvimento no ecossistema **Python, Data Science e Generative AI**. Minha trajetória é marcada pela disciplina operacional e pela capacidade de tomada de decisão em cenários críticos — habilidades que agora transponho para a criação de soluções tecnológicas inteligentes.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Python (Data Science e Backend)
-- **IA & Dados:** Generative AI, LLMs, Engenharia de Prompt, Análise Preditiva
-- **Ferramentas:** Git, GitHub, Excel, SQL
-- **Idiomas:** Estudando Inglês voltado para TI
+## 🛠️ Tecnologias e Ferramentas
+
+* **Linguagens:** Python (Data Science e Backend)
+* **IA & Dados:** Generative AI, LLMs, Engenharia de Prompt, Análise Preditiva
+* **Ferramentas:** Git, GitHub, Excel, SQL
+* **Idiomas:** Estudando Inglês voltado para TI
 
 ---
 
-### 🎓 Formação e Bootcamps
-- **Engenharia de Computação** - Univesp (Em andamento)
-- **Santander 2025** - Ciência de Dados com Python (DIO)
-- **LuizaLabs** - Backend com Python (DIO)
-- **Embaixador DIO Campus Expert** - Educação impulsionada por IA
-- **Bradesco GenAI** - Inteligência Artificial Generativa
+## 🎓 Formação e Bootcamps
+
+* **Engenharia de Computação** - Univesp (Em andamento)
+* **Santander 2025** - Ciência de Dados com Python (DIO)
+* **LuizaLabs** - Backend com Python (DIO)
+* **Bradesco GenAI** - Inteligência Artificial Generativa
+* **Embaixador DIO Campus Expert** - Educação impulsionada por IA
+
 ---
 
-### 🤝 Vamos nos conectar?
+## 🤝 Vamos nos conectar?
+
 Gosto de trocar experiências sobre transição de carreira, tecnologia e inteligência artificial.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fellipe-proença-tech)
+
+---
+
+### 💬 Mural de Recados
+> Fique à vontade para deixar seu comentário sobre o perfil e repositórios, ou alguma sugestão. Eu agradeço pela visita!
+
+[**👉 CLIQUE AQUI PARA DEIXAR UMA MENSAGEM**](https://github.com/pfproenca2-JF/pfproenca2-JF/issues/new?title=Mensagem+para+o+Mural&body=Escreva+seu+comentário+aqui)
+
+#### 📝 Últimos Comentários:
+*Ainda não há comentários. Seja o primeiro!*

@@ -1,4 +1,5 @@
-# Bombeiro Militar há 15 anos & Estudante de Engenharia de Computação
+Engenharia de Computação em Formação 
+Bombeiro Militar há 15 anos
 
 ![Visitantes](https://img.shields.io/badge/Visitante%20n%C2%BA-0-blue?style=for-the-badge)
 
